@@ -13,8 +13,8 @@ This Flask application provides weather information for a specified city using t
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/shekoder/your-repo.git
-    cd your-repo
+    git clone https://github.com/shekoder/WEATHER.git
+    cd WEATHER
     ```
 
 2. Install the required Python libraries:
